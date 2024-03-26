@@ -1,1 +1,2 @@
-# TripleTen_Projecs
+# TripleTen_Projects
+
