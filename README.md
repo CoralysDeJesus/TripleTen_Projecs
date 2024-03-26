@@ -1,7 +1,5 @@
 # TripleTen_Projects
 
-# TripleTen_projects
-
 Projects I've worked on while attending the  Business Intelligence Analytics (BIA) program with TripleTen Bootcamp.
 
 
